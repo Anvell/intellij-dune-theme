@@ -1,0 +1,20 @@
+<idea-plugin>
+    <id>io.github.anvell.dune-theme</id>
+    <version>1.0.0</version>
+    <name>Dune Theme</name>
+    <category>UI</category>
+    <vendor>Anvell</vendor>
+    <idea-version since-build="191.0"/>
+
+    <description><![CDATA[
+    Harmonic and flow inducing color scheme which is gentle for your eyes. <br/><br/>
+    Intended to be used with <b>Dark theme</b> from IntelliJ new UI.]]></description>
+
+    <change-notes><![CDATA[Initial release of the theme.]]></change-notes>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="io.github.anvell.dune-theme" path="/theme/dunetheme.theme.json"/>
+    </extensions>
+</idea-plugin>
