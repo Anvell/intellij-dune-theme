@@ -80,6 +80,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="403e41" />
     <option name="WHITESPACES" value="59575a" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="727072" />
+    <option name="LOOKUP_COLOR" value="3a3c3d" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
@@ -964,7 +965,7 @@
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="e91e63" />
+        <option name="BACKGROUND" value="95d1be" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
