@@ -37,6 +37,7 @@
     <option name="INFORMATION_HINT" value="403e41" />
     <option name="LINE_NUMBERS_COLOR" value="5b595c" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
+    <option name="LOOKUP_COLOR" value="3a3c3d" />
     <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
     <option name="MODIFIED_LINES_COLOR" value="faad89" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -80,7 +81,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="403e41" />
     <option name="WHITESPACES" value="59575a" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="727072" />
-    <option name="LOOKUP_COLOR" value="3a3c3d" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
@@ -1118,6 +1118,7 @@
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
+        <option name="EFFECT_COLOR" value="6b6a6b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3496,6 +3497,18 @@
       <value>
         <option name="FOREGROUND" value="ffd866" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_BINDING">
+      <value>
+        <option name="EFFECT_COLOR" value="6b6a6b" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_PARAMETER">
+      <value>
+        <option name="EFFECT_COLOR" value="6b6a6b" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="org.rust.TYPE_PARAMETER">
