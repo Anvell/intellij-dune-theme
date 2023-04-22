@@ -125,7 +125,7 @@
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="a9dc76" />
+        <option name="FOREGROUND" value="9bd2e0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -827,17 +827,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="78dce8" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="HTML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="ffd866" />
-      </value>
-    </option>
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
       <value />
     </option>
@@ -847,11 +838,7 @@
         <option name="FOREGROUND" value="939293" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="ff6188" />
-      </value>
-    </option>
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HTTP_HEADER_FIELD_VALUE">
       <value>
         <option name="FOREGROUND" value="f59762" />
@@ -1070,12 +1057,6 @@
     <option name="JS.VAR_DEF">
       <value>
         <option name="FOREGROUND" value="78dce8" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JSON.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="ab9df2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2468,6 +2449,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MERMAID_DIAGRAM_NAME" baseAttributes="MERMAID_KEYWORD" />
+    <option name="MERMAID_EDGE" baseAttributes="MERMAID_OPERATOR" />
+    <option name="MERMAID_FRONTMATTER_DELIMITER" baseAttributes="MERMAID_STRING" />
+    <option name="MERMAID_GENERIC" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="MERMAID_IDENTIFIER" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="MERMAID_TITLE" baseAttributes="MERMAID_STRING" />
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="c4b3a3" />
@@ -2700,12 +2687,7 @@
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY">
-      <value>
-        <option name="FOREGROUND" value="ab9df2" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="PROTOCOL_REFERENCE">
       <value>
@@ -3465,37 +3447,19 @@
       </value>
     </option>
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="78dce8" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.NUMBER">
       <value>
         <option name="FOREGROUND" value="f59762" />
       </value>
     </option>
-    <option name="XPATH.STRING">
-      <value>
-        <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="YAML_ANCHOR">
-      <value>
-        <option name="FOREGROUND" value="a9dc76" />
-      </value>
-    </option>
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_LIST">
       <value>
         <option name="FOREGROUND" value="c1c0c0" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_VALUE">
-      <value>
-        <option name="FOREGROUND" value="ffd866" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3505,6 +3469,11 @@
       </value>
     </option>
     <option name="org.rust.MACRO">
+      <value>
+        <option name="FOREGROUND" value="9bd2e0" />
+      </value>
+    </option>
+    <option name="org.rust.METHOD_CALL">
       <value>
         <option name="FOREGROUND" value="9bd2e0" />
       </value>
@@ -3533,10 +3502,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="org.rust.METHOD_CALL">
-      <value>
-        <option name="FOREGROUND" value="9bd2e0" />
-      </value>
-    </option>
+    <option name="JSON.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
   </attributes>
 </scheme>
