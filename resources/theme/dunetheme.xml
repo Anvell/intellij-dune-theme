@@ -3499,6 +3499,16 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="org.rust.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="9bd2e0" />
+      </value>
+    </option>
+    <option name="org.rust.MACRO">
+      <value>
+        <option name="FOREGROUND" value="9bd2e0" />
+      </value>
+    </option>
     <option name="org.rust.MUT_BINDING">
       <value>
         <option name="EFFECT_COLOR" value="6b6a6b" />
@@ -3521,6 +3531,11 @@
       <value>
         <option name="FOREGROUND" value="78dce8" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="9bd2e0" />
       </value>
     </option>
   </attributes>
