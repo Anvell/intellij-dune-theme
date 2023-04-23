@@ -21,5 +21,12 @@
                 path="/theme/arrakis.theme.json"
                 targetUi="new"
                 order="first"/>
+
+        <bundledColorScheme path="/theme/caladan"/>
+        <themeProvider
+                id="io.github.anvell.caladan-theme"
+                path="/theme/caladan.theme.json"
+                targetUi="new"
+                order="first"/>
     </extensions>
 </idea-plugin>
