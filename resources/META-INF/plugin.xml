@@ -15,6 +15,11 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="io.github.anvell.dune-theme" path="/theme/dune.theme.json"/>
+        <bundledColorScheme path="/theme/dune"/>
+        <themeProvider
+                id="io.github.anvell.dune-theme"
+                path="/theme/dune.theme.json"
+                targetUi="new"
+                order="first"/>
     </extensions>
 </idea-plugin>
