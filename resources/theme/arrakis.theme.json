@@ -1,8 +1,8 @@
 {
-  "name": "Dune",
+  "name": "Arrakis Night",
   "author": "Anvell",
   "dark": true,
-  "editorScheme": "/theme/dune.xml",
+  "editorScheme": "/theme/arrakis.xml",
   "ui": {
     "*": {
       "background": "$windowBackground",

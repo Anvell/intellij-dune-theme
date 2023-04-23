@@ -15,10 +15,10 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <bundledColorScheme path="/theme/dune"/>
+        <bundledColorScheme path="/theme/arrakis"/>
         <themeProvider
-                id="io.github.anvell.dune-theme"
-                path="/theme/dune.theme.json"
+                id="io.github.anvell.arrakis-theme"
+                path="/theme/arrakis.theme.json"
                 targetUi="new"
                 order="first"/>
     </extensions>
