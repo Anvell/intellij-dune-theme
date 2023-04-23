@@ -109,7 +109,7 @@
       "underlineColor": "$selectionUnderline",
       "inactiveUnderlineColor": "$selectionUnderlineInactive",
       "underlinedTabBackground": "$tabBackgroundSelected",
-      "underlinedTabForeground": "$controlBorder"
+      "underlinedTabForeground": "$regularForeground"
     },
     "Editor": {
       "background": "$toolwindowBackground",
