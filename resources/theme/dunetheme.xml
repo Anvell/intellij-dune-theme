@@ -11,27 +11,27 @@
     <option name="DOCUMENTATION_COLOR" value="403e41" />
     <option name="DOC_COMMENT_GUIDE" value="383d3c" />
     <option name="DOC_COMMENT_LINK" value="9ab8af" />
-    <option name="FILESTATUS_ADDED" value="a9dc76" />
+    <option name="FILESTATUS_ADDED" value="a6d89a" />
     <option name="FILESTATUS_COPIED" value="a9dc76" />
     <option name="FILESTATUS_DELETED" value="727072" />
-    <option name="FILESTATUS_HIJACKED" value="ffd866" />
+    <option name="FILESTATUS_HIJACKED" value="" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="abab67" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d98359" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d98359" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d98359" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a9dc76" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="ab9df2" />
-    <option name="FILESTATUS_MODIFIED" value="78dce8" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78dce8" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="78dce8" />
+    <option name="FILESTATUS_MODIFIED" value="71acd9" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="71acd9" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="71acd9" />
     <option name="FILESTATUS_SUPPRESSED" value="727072" />
-    <option name="FILESTATUS_SWITCHED" value="ab9df2" />
-    <option name="FILESTATUS_UNKNOWN" value="f59762" />
-    <option name="FILESTATUS_addedOutside" value="a9dc76" />
-    <option name="FILESTATUS_changelistConflict" value="f65f87" />
-    <option name="FILESTATUS_modifiedOutside" value="78dce8" />
+    <option name="FILESTATUS_SWITCHED" value="9a8dd9" />
+    <option name="FILESTATUS_UNKNOWN" value="d96657" />
+    <option name="FILESTATUS_addedOutside" value="a6d89a" />
+    <option name="FILESTATUS_changelistConflict" value="d95578" />
+    <option name="FILESTATUS_modifiedOutside" value="71acd9" />
     <option name="GUTTER_BACKGROUND" value="383938" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
@@ -3502,6 +3502,5 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JSON.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
   </attributes>
 </scheme>
