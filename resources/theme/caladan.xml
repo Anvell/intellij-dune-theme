@@ -10,22 +10,22 @@
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717" />
     <option name="DOCUMENTATION_COLOR" value="ffffff" />
     <option name="DOC_COMMENT_GUIDE" value="d0d0d0" />
-    <option name="FILESTATUS_ADDED" value="b1b3" />
+    <option name="FILESTATUS_ADDED" value="eaa00" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ef6733" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="8da0a9" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="98d5d6" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
-    <option name="FILESTATUS_MODIFIED" value="b1b3" />
+    <option name="FILESTATUS_MODIFIED" value="95b3" />
     <option name="FILESTATUS_NOT_CHANGED" value="626669" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="b1b3" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="b1b3" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="95b3" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="95b3" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_modifiedOutside" value="b1b3" />
+    <option name="FILESTATUS_modifiedOutside" value="95b3" />
     <option name="GUTTER_BACKGROUND" value="fafafa" />
     <option name="INDENT_GUIDE" value="f7f7f7" />
     <option name="INFORMATION_HINT" value="ffffff" />
