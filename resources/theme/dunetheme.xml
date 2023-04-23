@@ -376,8 +376,8 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="a9dc76" />
-        <option name="EFFECT_COLOR" value="a9dc76" />
+        <option name="FOREGROUND" value="95d1be" />
+        <option name="EFFECT_COLOR" value="95d1be" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -3468,6 +3468,12 @@
         <option name="FOREGROUND" value="9bd2e0" />
       </value>
     </option>
+    <option name="org.rust.LIFETIME">
+      <value>
+        <option name="FOREGROUND" value="d7ba92" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="org.rust.MACRO">
       <value>
         <option name="FOREGROUND" value="9bd2e0" />
@@ -3500,12 +3506,6 @@
       <value>
         <option name="FOREGROUND" value="78dce8" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="org.rust.LIFETIME">
-      <value>
-        <option name="FOREGROUND" value="d7ba92" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
