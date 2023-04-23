@@ -412,6 +412,7 @@
         <option name="FOREGROUND" value="939293" />
       </value>
     </option>
+    <option name="ComposableCallTextAttributes" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
         <option name="FOREGROUND" value="ffd866" />
