@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>io.github.anvell.dune-theme</id>
-    <version>1.0.0</version>
+    <version>2.0.0</version>
     <name>Dune Theme</name>
     <category>UI</category>
     <vendor>Anvell</vendor>
@@ -10,7 +10,14 @@
     Harmonic and flow inducing color schemes which are gentle for your eyes. <br/>
     The plugin offers both light and dark themes.]]></description>
 
-    <change-notes><![CDATA[Initial release of the theme.]]></change-notes>
+    <change-notes><![CDATA[
+    This release contains major changes: <br/>
+    — Complete UI theming besides color schemes. <br/>
+    — New light theme. <br/>
+    — Improved language support. <br/>
+    — Small changes which improve legibility. <br/><br/>
+
+    Note: make sure to re-apply new theme after update.]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
