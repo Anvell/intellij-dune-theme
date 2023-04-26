@@ -7,8 +7,8 @@
     <idea-version since-build="191.0"/>
 
     <description><![CDATA[
-    Harmonic and flow inducing color scheme which is gentle for your eyes. <br/><br/>
-    Intended to be used with <b>Dark theme</b> from IntelliJ new UI.]]></description>
+    Harmonic and flow inducing color schemes which are gentle for your eyes. <br/>
+    The plugin offers both light and dark themes.]]></description>
 
     <change-notes><![CDATA[Initial release of the theme.]]></change-notes>
 
