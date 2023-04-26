@@ -1,7 +1,9 @@
 ## Dune Theme (Intellij IDEs)
 
-Harmonic and flow inducing color scheme which is gentle for your eyes. 
+![Version](https://img.shields.io/jetbrains/plugin/v/io.github.anvell.dune-theme) ![Downloads](https://img.shields.io/jetbrains/plugin/d/io.github.anvell.dune-theme)
 
-Intended to be used with [Dark theme](https://www.jetbrains.com/help/idea/new-ui.html) from IntelliJ new UI.
+Harmonic and flow inducing color schemes which are gentle for your eyes.
 
-![](https://raw.githubusercontent.com/Anvell/intellij-dune-theme/main/marketplace/screenshot_01.png)
+The [plugin](https://plugins.jetbrains.com/plugin/21279-dune-theme) offers both light and dark themes.
+
+![](https://raw.githubusercontent.com/Anvell/intellij-dune-theme/main/marketplace/screenshots_promo.png)
