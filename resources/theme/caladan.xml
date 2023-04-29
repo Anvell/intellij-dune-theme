@@ -3446,5 +3446,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
   </attributes>
 </scheme>
