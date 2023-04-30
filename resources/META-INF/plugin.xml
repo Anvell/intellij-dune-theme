@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>io.github.anvell.dune-theme</id>
-    <version>2.0.0</version>
+    <version>2.0.1</version>
     <name>Dune Theme</name>
     <category>UI</category>
     <vendor>Anvell</vendor>
@@ -11,13 +11,9 @@
     The plugin offers both light and dark themes.]]></description>
 
     <change-notes><![CDATA[
-    This release contains major changes: <br/>
-    — Complete UI theming besides color schemes. <br/>
-    — New light theme. <br/>
-    — Improved language support. <br/>
-    — Small changes which improve legibility. <br/><br/>
-
-    Note: make sure to re-apply new theme after update.]]></change-notes>
+    Small update which refines light theme: <br/>
+    — Fixed IDE notification background. <br/>
+    — Removed undesired effects from labels in the code.]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
