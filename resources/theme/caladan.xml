@@ -1937,6 +1937,7 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="808080" />
+        <option name="EFFECT_COLOR" value="e6e6e6" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
