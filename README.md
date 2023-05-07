@@ -4,6 +4,8 @@
 
 Harmonic and flow inducing color schemes which are gentle for your eyes.
 
-The [plugin](https://plugins.jetbrains.com/plugin/21279-dune-theme) offers both light and dark themes.
+📦 [Intellij plugin](https://plugins.jetbrains.com/plugin/21279-dune-theme) offers both light and dark themes.
+
+Font used on screenshots: [Cascadia Code](https://github.com/microsoft/cascadia-code).
 
 ![](https://raw.githubusercontent.com/Anvell/intellij-dune-theme/main/marketplace/screenshots_promo.png)
