@@ -944,22 +944,28 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="3b3b3b" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="2d2a2d" />
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="3b3b3b" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="95d1be" />
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="3b3b3b" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="5b595c" />
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="3b3b3b" />
       </value>
     </option>
     <option name="IVAR">
