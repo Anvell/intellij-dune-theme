@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>io.github.anvell.dune-theme</id>
-    <version>2.0.2</version>
+    <version>2.0.3</version>
     <name>Dune Theme</name>
     <category>UI</category>
     <vendor>Anvell</vendor>
@@ -11,13 +11,8 @@
     The plugin offers both light and dark themes.]]></description>
 
     <change-notes><![CDATA[
-    Dark theme refinements: <br/>
-    — More subtle parameter hints in the dark theme. <br/><br/>
-
     Light theme refinements: <br/>
-    — Underwave unused symbols. <br/>
-    — Apply distinct highlight for 'TODO' comments. <br/>
-    — Refine color highlight of the warnings. <br/>]]></change-notes>
+    — Update matched bracket effect. <br/>]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
