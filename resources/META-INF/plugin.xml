@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>io.github.anvell.dune-theme</id>
-    <version>2.0.3</version>
+    <version>2.0.4</version>
     <name>Dune Theme</name>
     <category>UI</category>
     <vendor>Anvell</vendor>
@@ -11,8 +11,8 @@
     The plugin offers both light and dark themes.]]></description>
 
     <change-notes><![CDATA[
-    Light theme refinements: <br/>
-    — Update matched bracket effect. <br/>]]></change-notes>
+    Dark theme refinements: <br/>
+    — Fixed scrollbar background. <br/>]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
