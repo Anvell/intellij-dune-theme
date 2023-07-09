@@ -1,7 +1,8 @@
 <scheme name="Caladan Dawn" version="142" parent_scheme="Default">
   <colors>
     <option name="ADDED_LINES_COLOR" value="c7dba9" />
-    <option name="ANNOTATIONS_COLOR" value="b0bec5" />
+    <option name="ANNOTATIONS_COLOR" value="5a5d6b" />
+    <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="b0c0d" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="4d545d" />
     <option name="CARET_ROW_COLOR" value="" />
@@ -43,11 +44,11 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="e6e6e6" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="ffffff" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="f2f2f2" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="dce6fa" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="e1e9fa" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="e8effc" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="edf2fa" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="f7f8fa" />
     <option name="WHITESPACES" value="f5f5f5" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f5f5f5" />
     <option name="SELECTED_TEARLINE_COLOR" value="c2c2c2" />
