@@ -1087,12 +1087,11 @@
         <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
             <value>
                 <option name="FOREGROUND" value="9bd2e0"/>
-                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
             <value>
-                <option name="FOREGROUND" value="fcfcfa"/>
+                <option name="FOREGROUND" value="c6cbcc"/>
             </value>
         </option>
         <option name="KOTLIN_EXCLEXCL">
@@ -1117,7 +1116,7 @@
         </option>
         <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="9bd2e0"/>
+                <option name="FOREGROUND" value="92c8d5"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -3472,7 +3471,7 @@
         </option>
         <option name="org.rust.FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="9bd2e0"/>
+                <option name="FOREGROUND" value="92c8d5"/>
             </value>
         </option>
         <option name="org.rust.LIFETIME">
@@ -3483,12 +3482,12 @@
         </option>
         <option name="org.rust.MACRO">
             <value>
-                <option name="FOREGROUND" value="9bd2e0"/>
+                <option name="FOREGROUND" value="92c8d5"/>
             </value>
         </option>
         <option name="org.rust.METHOD_CALL">
             <value>
-                <option name="FOREGROUND" value="9bd2e0"/>
+                <option name="FOREGROUND" value="92c8d5"/>
             </value>
         </option>
         <option name="org.rust.MUT_BINDING">
