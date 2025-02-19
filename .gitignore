@@ -1,15 +1,21 @@
-out
-*.jar
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
 
-# User-specific configurations
+### IntelliJ IDEA ###
 .idea/
+.run/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
 
-# OS-specific files
+### VS Code ###
+.vscode/
+
+### Mac OS ###
 .DS_Store
-.DS_Store?
-._*
-.attach_pid*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db

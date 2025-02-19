@@ -19,16 +19,16 @@
     <extensions defaultExtensionNs="com.intellij">
         <bundledColorScheme path="/theme/arrakis"/>
         <themeProvider
-                id="io.github.anvell.arrakis-theme"
-                path="/theme/arrakis.theme.json"
-                targetUi="new"
-                order="first"/>
+            id="io.github.anvell.arrakis-theme"
+            path="/theme/arrakis.theme.json"
+            targetUi="new"
+            order="first"/>
 
         <bundledColorScheme path="/theme/caladan"/>
         <themeProvider
-                id="io.github.anvell.caladan-theme"
-                path="/theme/caladan.theme.json"
-                targetUi="new"
-                order="first"/>
+            id="io.github.anvell.caladan-theme"
+            path="/theme/caladan.theme.json"
+            targetUi="new"
+            order="first"/>
     </extensions>
 </idea-plugin>
