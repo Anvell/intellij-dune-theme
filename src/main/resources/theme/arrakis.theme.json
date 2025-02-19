@@ -126,7 +126,7 @@
       "underlineColor": "$selectionUnderline",
       "inactiveUnderlineColor": "$selectionUnderlineInactive",
       "underlineHeight": 3,
-      "underlinedTabBackground": "$toolwindowBackground"
+      "underlinedTabBackground": "$activeTabBackground"
     },
     "FileColor": {
       "Rose": "#52282e",
@@ -272,6 +272,7 @@
       "tagForeground": "$regularForeground"
     },
     "Popup": {
+      "background": "$popupBackground",
       "borderColor": "$popupBorder",
       "inactiveBorderColor": "$popupBorder",
       "separatorColor": "$listSeparator",
@@ -478,11 +479,12 @@
       },
       "SidePanel.background": "$panelBackground"
     },
-    "Window.border": "0,0,0,0,58585833"
+    "Window.border": "0,0,0,0,464543"
   },
   "colors": {
-    "$windowBackground": "#323333",
-    "$titleBackground": "#383838",
+    "$activeTabBackground": "#262523",
+    "$windowBackground": "#2e2c2a",
+    "$titleBackground": "#2b2926",
     "$selectionBackground": "#395ba9",
     "$selectionBackgroundMuted": "#2e3d61",
     "$selectionUnderline": "#4c659e",
@@ -491,16 +493,17 @@
     "$selectionForeground": "#EEEEEE",
     "$selectionForegroundInactive": "#EEEEEE",
     "$selectionToolwindowHeader": "#3E424D",
-    "$border": "#292929",
+    "$border": "#3b3a38",
     "$controlBorder": "#404040",
     "$separator": "#2c2c2c",
     "$listSeparator": "#232323",
     "$focusedBorder": "#323333",
     "$controlFocus": "#395ba9",
     "$popupBorder": "#585858",
-    "$toolwindowBackground": "#323232",
-    "$panelBackground": "#323333",
-    "$tooltipBackground": "#383838",
+    "$popupBackground": "#302e2c",
+    "$toolwindowBackground": "#2e2c2a",
+    "$panelBackground": "#2e2c2a",
+    "$tooltipBackground": "#34312f",
     "$regularForeground": "#c0c0c6",
     "$mutedForeground": "#9999A8",
     "$disabledForeground": "#6A6A70",
