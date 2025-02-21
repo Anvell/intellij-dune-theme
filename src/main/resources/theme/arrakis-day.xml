@@ -10,6 +10,7 @@
         <option name="CARET_COLOR" value="9bced6"/>
         <option name="CARET_ROW_COLOR" value=""/>
         <option name="CONSOLE_BACKGROUND_KEY" value="f5ebe1"/>
+        <option name="DELETED_LINES_COLOR" value="d88989"/>
         <option name="DOCUMENTATION_COLOR" value=""/>
         <option name="FILESTATUS_ADDED" value="4a858c"/>
         <option name="FILESTATUS_COPIED" value="656565"/>
@@ -21,7 +22,7 @@
         <option name="INDENT_GUIDE" value="e1d8cf"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4d4d4d"/>
         <option name="METHOD_SEPARATORS_COLOR" value="e1d8cf"/>
-        <option name="MODIFIED_LINES_COLOR" value="bccff9"/>
+        <option name="MODIFIED_LINES_COLOR" value="f2d59e"/>
         <option name="NOTIFICATION_BACKGROUND" value="f5ebe1"/>
         <option name="READONLY_FRAGMENT_BACKGROUND" value=""/>
         <option name="RIGHT_MARGIN_COLOR" value="e1d8cf"/>
@@ -31,8 +32,6 @@
         <option name="SELECTION_FOREGROUND" value="76690b"/>
         <option name="SEPARATOR_ABOVE_COLOR" value="e1d8cf"/>
         <option name="SEPARATOR_BELOW_COLOR" value="e1d8cf"/>
-        <option name="TEARLINE_COLOR" value="656565"/>
-        <option name="WHITESPACES" value="656565"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="b8b0a8"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="b8b0a8"/>
         <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="b8b0a8"/>
@@ -50,6 +49,8 @@
         <option name="ScrollBar.hoverThumbColor" value="b8b0a8"/>
         <option name="ScrollBar.thumbBorderColor" value="b8b0a8"/>
         <option name="ScrollBar.thumbColor" value="b8b0a8"/>
+        <option name="TEARLINE_COLOR" value="656565"/>
+        <option name="WHITESPACES" value="656565"/>
     </colors>
     <attributes>
         <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -747,26 +748,26 @@
         </option>
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="f79e9e"/>
-                <option name="ERROR_STRIPE_COLOR" value="fa0c0c"/>
+                <option name="BACKGROUND" value="ff6f6f"/>
+                <option name="ERROR_STRIPE_COLOR" value="b86264"/>
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="e5e7e9"/>
-                <option name="ERROR_STRIPE_COLOR" value="e5e7e9"/>
+                <option name="BACKGROUND" value="f2cbcb"/>
+                <option name="ERROR_STRIPE_COLOR" value="b89a9b"/>
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="bef6dc"/>
-                <option name="ERROR_STRIPE_COLOR" value="284c24"/>
+                <option name="BACKGROUND" value="dcebd3"/>
+                <option name="ERROR_STRIPE_COLOR" value="acb8a5"/>
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="bd5df6"/>
-                <option name="ERROR_STRIPE_COLOR" value="c3f72"/>
+                <option name="BACKGROUND" value="f5debc"/>
+                <option name="ERROR_STRIPE_COLOR" value="b8a78d"/>
             </value>
         </option>
         <option name="DJANGO_COMMENT">
