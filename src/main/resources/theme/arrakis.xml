@@ -2453,7 +2453,8 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="3b514d"/>
+                <option name="FOREGROUND" value="9e9d9e"/>
+                <option name="BACKGROUND" value="313331"/>
                 <option name="FONT_TYPE" value="1"/>
             </value>
         </option>
