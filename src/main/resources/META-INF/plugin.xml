@@ -24,11 +24,18 @@
             targetUi="new"
             order="first"/>
 
+        <bundledColorScheme path="/theme/arrakis-day"/>
+        <themeProvider
+            id="io.github.anvell.arrakis-day-theme"
+            path="/theme/arrakis-day.theme.json"
+            targetUi="new"
+            order="after io.github.anvell.arrakis-theme"/>
+
         <bundledColorScheme path="/theme/caladan"/>
         <themeProvider
             id="io.github.anvell.caladan-theme"
             path="/theme/caladan.theme.json"
             targetUi="new"
-            order="first"/>
+            order="last"/>
     </extensions>
 </idea-plugin>
