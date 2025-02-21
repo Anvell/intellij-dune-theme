@@ -1096,6 +1096,9 @@
         <option name="KOTLIN_EXCLEXCL">
             <value/>
         </option>
+        <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+            <value/>
+        </option>
         <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
             <value/>
         </option>
