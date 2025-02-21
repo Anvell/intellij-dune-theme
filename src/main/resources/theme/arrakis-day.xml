@@ -1450,6 +1450,9 @@
         <option name="KOTLIN_FUNCTION_CALL">
             <value/>
         </option>
+        <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+            <value/>
+        </option>
         <option name="KOTLIN_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="4a858c"/>
