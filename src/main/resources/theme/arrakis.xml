@@ -48,6 +48,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="403e41"/>
         <option name="SELECTED_INDENT_GUIDE" value="5f7679"/>
         <option name="SELECTED_TEARLINE_COLOR" value="ffd866"/>
+        <option name="SELECTION_FOREGROUND" value="c6cbcc"/>
         <option name="SELECTION_BACKGROUND" value="404642"/>
         <option name="SEPARATOR_BELOW_COLOR" value="373438"/>
         <option name="SOFT_WRAP_SIGN_COLOR" value="403e41"/>
@@ -873,7 +874,6 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="76726f"/>
                 <option name="ERROR_STRIPE_COLOR" value="4d6168"/>
             </value>
         </option>
@@ -3201,8 +3201,8 @@
         </option>
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="2b2715"/>
-                <option name="BACKGROUND" value="b8a971"/>
+                <option name="EFFECT_COLOR" value="6ea29c"/>
+                <option name="BACKGROUND" value="404642"/>
             </value>
         </option>
         <option name="SLIM_CLASS">
@@ -3340,8 +3340,8 @@
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="2b2715"/>
-                <option name="BACKGROUND" value="b8a971"/>
+                <option name="FOREGROUND" value="403e41"/>
+                <option name="BACKGROUND" value="f8ba1c"/>
             </value>
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -3434,8 +3434,8 @@
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="c4d6ca"/>
-                <option name="BACKGROUND" value="7a4140"/>
+                <option name="EFFECT_COLOR" value="6ea29c"/>
+                <option name="BACKGROUND" value="403e41"/>
             </value>
         </option>
         <option name="WRONG_REFERENCES_ATTRIBUTES">
