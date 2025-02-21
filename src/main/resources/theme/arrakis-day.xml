@@ -78,7 +78,6 @@
         <option name="Abstract class">
             <value>
                 <option name="FOREGROUND" value="8c4a79"/>
-                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="Annotation">
@@ -341,7 +340,6 @@
         <option name="CONSOLE_USER_INPUT">
             <value>
                 <option name="FOREGROUND" value="4a858c"/>
-                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
@@ -1437,11 +1435,6 @@
                 <option name="FOREGROUND" value="737373"/>
             </value>
         </option>
-        <option name="KOTLIN_CONSTRUCTOR">
-            <value>
-                <option name="FONT_TYPE" value="2"/>
-            </value>
-        </option>
         <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
             <value/>
         </option>
@@ -1730,17 +1723,11 @@
         <option name="Local variable">
             <value>
                 <option name="FOREGROUND" value="476238"/>
-                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="MACRONAME">
             <value>
                 <option name="FOREGROUND" value="bd745e"/>
-            </value>
-        </option>
-        <option name="MACRO_PARAMETER">
-            <value>
-                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="MAKO.ATTRIBUTE_NAME">
@@ -2163,7 +2150,6 @@
         <option name="PROTOCOL_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="bd745e"/>
-                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="PY.CLASS_DEFINITION">
