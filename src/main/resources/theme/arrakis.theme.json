@@ -19,6 +19,10 @@
       "pressedBackground": "$controlBorder",
       "pressedBorderColor": "$controlBorder"
     },
+    "MainToolbar": {
+      "background": "$windowBackground",
+      "inactiveBackground": "$windowBackground"
+    },
     "Borders": {
       "color": "$border",
       "ContrastBorderColor": "$border"
