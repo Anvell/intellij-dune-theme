@@ -582,20 +582,20 @@
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="41454b"/>
+                <option name="BACKGROUND" value="3c3d40"/>
                 <option name="ERROR_STRIPE_COLOR" value="656e76"/>
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="264b33"/>
+                <option name="BACKGROUND" value="37433d"/>
                 <option name="ERROR_STRIPE_COLOR" value="447152"/>
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="12404b"/>
-                <option name="ERROR_STRIPE_COLOR" value="43698d"/>
+                <option name="BACKGROUND" value="554d3d"/>
+                <option name="ERROR_STRIPE_COLOR" value="8c7443"/>
             </value>
         </option>
         <option name="DUPLICATE_FROM_SERVER">
