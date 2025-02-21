@@ -4,6 +4,7 @@
   "dark": false,
   "editorScheme": "/theme/arrakis-day.xml",
   "colors": {
+    "Higlight": "#e0e5de",
     "WetSand": "#bfbdb5",
     "MediumSand": "#e6dcd3",
     "Sand": "#f6ebe1",
@@ -106,8 +107,8 @@
       "inactiveForeground": "Gray8",
       "disabledBackground": "BrightSand",
       "disabledBorderColor": "Gray11",
-      "selectionBackground": "Blue11",
-      "lightSelectionBackground": "Blue11",
+      "selectionBackground": "Higlight",
+      "lightSelectionBackground": "Higlight",
       "selectionInactiveBackground": "Gray11",
       "selectionForeground": "Black",
       "selectionInactiveForeground": "Black",
@@ -346,7 +347,7 @@
       "background": "LightSand",
       "foreground": "Black",
       "selectionForeground": "Black",
-      "selectionBackground": "Blue11",
+      "selectionBackground": "Higlight",
       "transparentSelectionBackground": "#0000001A"
     },
     "MemoryIndicator": {
