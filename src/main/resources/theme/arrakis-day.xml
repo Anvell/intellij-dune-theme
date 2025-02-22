@@ -552,7 +552,11 @@
                 <option name="FONT_TYPE" value="3"/>
             </value>
         </option>
-        <option name="ComposableCallTextAttributes" baseAttributes="DEFAULT_FUNCTION_CALL"/>
+        <option name="ComposableCallTextAttributes">
+            <value>
+                <option name="FOREGROUND" value="bd745e" />
+            </value>
+        </option>
         <option name="DART.BADCHARACTER">
             <value>
                 <option name="FOREGROUND" value="737373"/>

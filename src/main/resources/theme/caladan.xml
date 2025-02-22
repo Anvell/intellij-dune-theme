@@ -529,7 +529,11 @@
         </option>
         <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING"/>
         <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE"/>
-        <option name="ComposableCallTextAttributes" baseAttributes="DEFAULT_FUNCTION_CALL"/>
+        <option name="ComposableCallTextAttributes">
+            <value>
+                <option name="FOREGROUND" value="e99d35" />
+            </value>
+        </option>
         <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER"/>
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
