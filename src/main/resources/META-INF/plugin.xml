@@ -11,8 +11,8 @@
     The plugin offers both light and dark themes.]]></description>
 
     <change-notes><![CDATA[
-    Light theme refinements: <br/>
-    — Fixed annotation colors. <br/>]]></change-notes>
+    — Dark theme overhaul. <br/>
+    — New light theme. <br/>]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
