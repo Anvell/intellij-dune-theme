@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>io.github.anvell.dune-theme</id>
-    <version>2.0.5</version>
+    <version>3.0.0</version>
     <name>Dune Theme</name>
     <category>UI</category>
     <vendor>Anvell</vendor>

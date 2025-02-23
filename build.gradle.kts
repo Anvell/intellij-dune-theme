@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "io.github.anvell"
-version = "2.0.5"
+version = "3.0.0"
 
 repositories {
     mavenCentral()
