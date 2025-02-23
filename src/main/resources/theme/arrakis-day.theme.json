@@ -613,7 +613,7 @@
       "Button": {
         "foreground": "PastelGray5",
         "selectedForeground": "BrightSand",
-        "selectedBackground": "Teal5",
+        "selectedBackground": "PastelGray8",
         "hoverBackground": "PastelGray12",
         "DragAndDrop": {
           "stripeBackground": "LightSand",
