@@ -1149,9 +1149,9 @@
         </option>
         <option name="INFO_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="bd745e"/>
-                <option name="ERROR_STRIPE_COLOR" value="bd745e"/>
-                <option name="EFFECT_TYPE" value="5"/>
+                <option name="EFFECT_COLOR" value="8aa2b5"/>
+                <option name="ERROR_STRIPE_COLOR" value="8aa2b5"/>
+                <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -1895,7 +1895,8 @@
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="656565"/>
-                <option name="FONT_TYPE" value="2"/>
+                <option name="EFFECT_COLOR" value="b6b6b6"/>
+                <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
         <option name="OC.BADCHARACTER">
@@ -3205,8 +3206,8 @@
         </option>
         <option name="WARNING_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="b6b6b6"/>
-                <option name="ERROR_STRIPE_COLOR" value="ff1276"/>
+                <option name="EFFECT_COLOR" value="b0b47e"/>
+                <option name="ERROR_STRIPE_COLOR" value="b0b47e"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -3223,7 +3224,9 @@
         </option>
         <option name="WRONG_REFERENCES_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ff4d12"/>
+                <option name="FOREGROUND" value="e64500"/>
+                <option name="EFFECT_COLOR" value="e64500"/>
+                <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
         <option name="Wrong number">
