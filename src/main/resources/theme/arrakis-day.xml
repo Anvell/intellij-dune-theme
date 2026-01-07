@@ -1,8 +1,4 @@
 <scheme name="Arrakis Day" version="142" parent_scheme="Default">
-    <metaInfo>
-        <property name="ide">AndroidStudio</property>
-        <property name="ideVersion">2024.2.1.10</property>
-    </metaInfo>
     <colors>
         <option name="ADDED_LINES_COLOR" value="737373"/>
         <option name="ANNOTATIONS_COLOR" value="737373"/>
@@ -554,7 +550,7 @@
         </option>
         <option name="ComposableCallTextAttributes">
             <value>
-                <option name="FOREGROUND" value="bd745e" />
+                <option name="FOREGROUND" value="bd745e"/>
             </value>
         </option>
         <option name="DART.BADCHARACTER">
@@ -608,10 +604,14 @@
             </value>
         </option>
         <option name="DEFAULT_BRACES">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="6b6b6b"/>
+            </value>
         </option>
         <option name="DEFAULT_BRACKETS">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="6b6b6b"/>
+            </value>
         </option>
         <option name="DEFAULT_CLASS_NAME">
             <value>
@@ -621,6 +621,11 @@
         <option name="DEFAULT_CLASS_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="8c4a79"/>
+            </value>
+        </option>
+        <option name="DEFAULT_COMMA">
+            <value>
+                <option name="FOREGROUND" value="6b6b6b"/>
             </value>
         </option>
         <option name="DEFAULT_CONSTANT">
@@ -648,7 +653,9 @@
             <value/>
         </option>
         <option name="DEFAULT_DOT">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="6b6b6b"/>
+            </value>
         </option>
         <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER"/>
         <option name="DEFAULT_FUNCTION_CALL">
@@ -701,13 +708,22 @@
             </value>
         </option>
         <option name="DEFAULT_OPERATION_SIGN">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="6b6b6b"/>
+            </value>
         </option>
         <option name="DEFAULT_PARENTHS">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="6b6b6b"/>
+            </value>
         </option>
         <option name="DEFAULT_PREDEFINED_SYMBOL">
             <value/>
+        </option>
+        <option name="DEFAULT_SEMICOLON">
+            <value>
+                <option name="FOREGROUND" value="6b6b6b"/>
+            </value>
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
@@ -1468,13 +1484,12 @@
         </option>
         <option name="KOTLIN_MUTABLE_VARIABLE">
             <value>
-                <option name="EFFECT_COLOR" value="c5c5be"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="KOTLIN_NAMED_ARGUMENT">
             <value>
-                <option name="FOREGROUND" value="808080"/>
+                <option name="FOREGROUND" value="5c5c5c"/>
             </value>
         </option>
         <option name="KOTLIN_NAMESPACE_PROPERTY">
@@ -3071,7 +3086,7 @@
         </option>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="585858"/>
+                <option name="FOREGROUND" value="515151"/>
                 <option name="BACKGROUND" value="f5ebe1"/>
             </value>
         </option>
