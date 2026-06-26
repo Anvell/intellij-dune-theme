@@ -671,11 +671,7 @@
         <option name="DEFAULT_IDENTIFIER">
             <value/>
         </option>
-        <option name="DEFAULT_INSTANCE_FIELD">
-            <value>
-                <option name="FOREGROUND" value="1a8591"/>
-            </value>
-        </option>
+        <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER"/>
         <option name="DEFAULT_INVALID_STRING_ESCAPE">
             <value>
                 <option name="FOREGROUND" value="ff4d12"/>
