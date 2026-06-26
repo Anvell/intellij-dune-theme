@@ -16,24 +16,27 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <bundledColorScheme path="/theme/arrakis"/>
+        <bundledColorScheme path="/theme/arrakis-day"/>
+        <bundledColorScheme path="/theme/caladan"/>
+
         <themeProvider
             id="io.github.anvell.arrakis-theme"
             path="/theme/arrakis.theme.json"
-            targetUi="new"
-            order="first"/>
+            targetUi="new"/>
 
-        <bundledColorScheme path="/theme/arrakis-day"/>
         <themeProvider
             id="io.github.anvell.arrakis-day-theme"
             path="/theme/arrakis-day.theme.json"
-            targetUi="new"
-            order="after io.github.anvell.arrakis-theme"/>
+            targetUi="new"/>
 
-        <bundledColorScheme path="/theme/caladan"/>
         <themeProvider
             id="io.github.anvell.caladan-theme"
             path="/theme/caladan.theme.json"
-            targetUi="new"
-            order="last"/>
+            targetUi="new"/>
+
+        <themeProvider
+            id="io.github.anvell.arrakis-islands-day-theme"
+            path="/theme/arrakis-islands-day.theme.json"
+            targetUi="new"/>
     </extensions>
 </idea-plugin>
