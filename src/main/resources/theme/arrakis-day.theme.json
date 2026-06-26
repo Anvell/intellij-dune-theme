@@ -555,14 +555,6 @@
       "minimumSize": "49,28"
     },
     "ToolBar.separatorColor": "PastelGray11",
-    "ToolTip": {
-      "background": "PastelGray2",
-      "foreground": "BrightSand",
-      "infoForeground": "PastelGray8",
-      "shortcutForeground": "PastelGray8",
-      "linkForeground": "Teal8",
-      "borderColor": "PastelGray2"
-    },
     "HelpTooltip": {
       "verticalGap": 6
     },
