@@ -1398,6 +1398,11 @@
                 <option name="FOREGROUND" value="4a858c"/>
             </value>
         </option>
+        <option name="JSON.PROPERTY_KEY">
+            <value>
+                <option name="FOREGROUND" value="515151" />
+            </value>
+        </option>
         <option name="JSP_ATTRIBUTE_NAME">
             <value>
                 <option name="FOREGROUND" value="585858"/>
