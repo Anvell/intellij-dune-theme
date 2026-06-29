@@ -30,18 +30,23 @@
             targetUi="new"/>
 
         <themeProvider
+            id="io.github.anvell.caladan-theme"
+            path="/theme/caladan.theme.json"
+            targetUi="new"/>
+
+        <themeProvider
             id="io.github.anvell.arrakis-islands-theme"
-            path="/theme/arrakis-islands.theme.json"
+            path="/theme/islands-arrakis.theme.json"
             targetUi="new"/>
 
         <themeProvider
             id="io.github.anvell.arrakis-islands-day-theme"
-            path="/theme/arrakis-islands-day.theme.json"
+            path="/theme/islands-arrakis-day.theme.json"
             targetUi="new"/>
 
         <themeProvider
-            id="io.github.anvell.caladan-theme"
-            path="/theme/caladan.theme.json"
+            id="io.github.anvell.caladan-islands-theme"
+            path="/theme/caladan-islands.theme.json"
             targetUi="new"/>
     </extensions>
 </idea-plugin>
