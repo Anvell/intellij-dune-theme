@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>io.github.anvell.dune-theme</id>
-    <version>3.3.0</version>
+    <version>3.4.0</version>
     <name>Dune Theme</name>
     <category>UI</category>
     <vendor>Anvell</vendor>
@@ -9,8 +9,8 @@
     The plugin offers both light and dark themes.]]></description>
 
     <change-notes><![CDATA[
-    — Dark theme overhaul. <br/>
-    — New light theme. <br/>]]></change-notes>
+    — Added support for Islands variants. <br/>
+    — Small colors fix. <br/>]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
