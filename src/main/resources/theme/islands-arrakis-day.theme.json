@@ -114,7 +114,7 @@
       "shortcutForeground": "PastelGray7",
       "underlineColor": "Teal6",
       "inactiveUnderlineColor": "PastelGray8",
-      "focusColor": "Teal4",
+      "focusColor": "Green7",
       "separatorColor": "PastelGray12",
       "separatorForeground": "PastelGray7",
       "modifiedItemForeground": "Teal3"
@@ -155,10 +155,10 @@
       "default": {
         "foreground": "BrightSand",
         "loadingForeground": "PastelGray10",
-        "startBackground": "Teal4",
-        "endBackground": "Teal4",
-        "startBorderColor": "Teal4",
-        "endBorderColor": "Teal4",
+        "startBackground": "Green6",
+        "endBackground": "Green6",
+        "startBorderColor": "Green6",
+        "endBorderColor": "Green6",
         "focusedBorderColor": "BrightSand"
       },
       "Split": {
@@ -620,7 +620,8 @@
       "borderColor": "LightSand",
       "Header": {
         "inactiveBackground": "LightSand",
-        "font.size.offset": 0
+        "font.size.offset": 0,
+        "borderColor": "MediumSand"
       },
       "HeaderTab": {
         "hoverBackground": "PastelGray12",
@@ -1116,9 +1117,9 @@
       "Checkbox.Background.Default": "BrightSand",
       "Checkbox.Border.Default": "PastelGray8",
       "Checkbox.Foreground.Selected": "BrightSand",
-      "Checkbox.Background.Selected": "Teal4",
-      "Checkbox.Border.Selected": "Teal4",
-      "Checkbox.Focus.Wide": "Teal4",
+      "Checkbox.Background.Selected": "Green4",
+      "Checkbox.Border.Selected": "Green4",
+      "Checkbox.Focus.Wide": "Green4",
       "Checkbox.Foreground.Disabled": "PastelGray9",
       "Checkbox.Background.Disabled": "LightSand",
       "Checkbox.Border.Disabled": "PastelGray11"
