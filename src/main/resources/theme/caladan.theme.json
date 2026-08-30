@@ -529,7 +529,7 @@
     "$tooltipBackground": "#F8F8F8",
     "$regularForeground": "#303040",
     "$mutedForeground": "#767680",
-    "$disabledForeground": "#a7a7af",
+    "$disabledForeground": "#A7A7AF",
     "$textInputBackground": "#FFFFFF",
     "$textInputBackgroundDisabled": "#F0F0F0",
     "$tabBackgroundSelected": "#FFFFFF",
