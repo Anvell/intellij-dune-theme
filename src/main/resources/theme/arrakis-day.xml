@@ -726,9 +726,7 @@
                 <option name="FOREGROUND" value="697024"/>
             </value>
         </option>
-        <option name="DEFAULT_STATIC_METHOD">
-            <value/>
-        </option>
+        <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION"/>
         <option name="DEFAULT_STRING">
             <value>
                 <option name="FOREGROUND" value="B3534B"/>
@@ -1139,11 +1137,6 @@
                 <option name="FOREGROUND" value="656565"/>
             </value>
         </option>
-        <option name="HTML_TAG_NAME">
-            <value>
-                <option name="FOREGROUND" value="8C4A79"/>
-            </value>
-        </option>
         <option name="HYPERLINK_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="8C4A79"/>
@@ -1458,13 +1451,22 @@
             </value>
         </option>
         <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="515151"/>
+            </value>
         </option>
         <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
             <value/>
         </option>
+        <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="515151"/>
+            </value>
+        </option>
         <option name="KOTLIN_FUNCTION_CALL">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="515151"/>
+            </value>
         </option>
         <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
             <value/>
@@ -1500,11 +1502,6 @@
                 <option name="FONT_TYPE" value="3"/>
             </value>
         </option>
-        <option name="KOTLIN_PARAMETER">
-            <value>
-                <option name="FOREGROUND" value="656565"/>
-            </value>
-        </option>
         <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
             <value>
                 <option name="EFFECT_COLOR" value="8C4A79"/>
@@ -1534,6 +1531,16 @@
             <value>
                 <option name="FOREGROUND" value="697024"/>
                 <option name="FONT_TYPE" value="1"/>
+            </value>
+        </option>
+        <option name="KOTLIN_VARIABLE_AS_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="BD745E"/>
+            </value>
+        </option>
+        <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
+            <value>
+                <option name="FOREGROUND" value="BD745E"/>
             </value>
         </option>
         <option name="KOTLIN_WRAPPED_INTO_REF">
@@ -1978,6 +1985,11 @@
         <option name="OC.STRUCT_FIELD">
             <value>
                 <option name="FOREGROUND" value="1A8591"/>
+            </value>
+        </option>
+        <option name="OC.TYPEDEF">
+            <value>
+                <option name="FOREGROUND" value="515151"/>
             </value>
         </option>
         <option name="OCKEYWORD">
@@ -3292,11 +3304,6 @@
         <option name="XML_TAG_DATA">
             <value/>
         </option>
-        <option name="XML_TAG_NAME">
-            <value>
-                <option name="FOREGROUND" value="BD745E"/>
-            </value>
-        </option>
         <option name="XPATH.FUNCTION">
             <value>
                 <option name="FOREGROUND" value="BD745E"/>
@@ -3328,6 +3335,7 @@
                 <option name="FOREGROUND" value="B3534B"/>
             </value>
         </option>
+        <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER"/>
         <option name="YAML_COMMENT">
             <value>
                 <option name="FOREGROUND" value="A9A9A9"/>
