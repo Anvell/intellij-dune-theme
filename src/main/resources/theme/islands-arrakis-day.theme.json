@@ -88,7 +88,7 @@
   "ui": {
     "Islands": 1,
     "Island.arc": 16,
-    "Island.arc.compact": 12,
+    "Island.arc.compact": 16,
     "Island.borderColor": "Black",
     "Island.borderWidth": 5,
     "Island.borderWidth.compact": 4,
