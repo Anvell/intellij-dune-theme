@@ -937,6 +937,7 @@
                 <option name="FOREGROUND" value="9373a5"/>
             </value>
         </option>
+        <option name="IntelliJComposableCallTextAttributes" baseAttributes="DEFAULT_FUNCTION_CALL"/>
         <option name="JAVA.IMPORT_PACKAGE">
             <value>
                 <option name="FOREGROUND" value="78dce8"/>

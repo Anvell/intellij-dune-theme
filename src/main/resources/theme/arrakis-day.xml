@@ -1201,6 +1201,7 @@
                 <option name="FOREGROUND" value="ff4d12"/>
             </value>
         </option>
+        <option name="IntelliJComposableCallTextAttributes" baseAttributes="DEFAULT_FUNCTION_CALL"/>
         <option name="Invalid escape in string">
             <value>
                 <option name="FOREGROUND" value="ff1276"/>
